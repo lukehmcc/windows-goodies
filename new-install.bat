@@ -1,17 +1,17 @@
 @REM Install basic apps
 
-gsudo winget install Bitwarden.Bitwarden
-gsudo winget install Joplin.Joplin
-gsudo winget install deltachat.deltachat
-gsudo winget install Google.AndroidStudio
-gsudo winget install DelugeTeam.Deluge
-gsudo winget install Git.Git
-gsudo winget install acrosync.DuplicacyWeb
-gsudo winget install Mozilla.Firefox
-gsudo winget install Mozilla.Thunderbird --version 102.15
-gsudo winget install Notepad++.Notepad++
-gsudo winget install ONLYOFFICE.DesktopEditors
-gsudo winget install Valve.Steam
-gsudo winget install Element.Element
-gsudo winget install Vup.Vup
-gsudo winget install Cloudflare.Warp
+winget install Bitwarden.Bitwarden
+winget install Joplin.Joplin
+winget install deltachat.deltachat
+winget install Google.AndroidStudio
+winget install DelugeTeam.Deluge
+winget install Git.Git
+winget install acrosync.DuplicacyWeb
+winget install Mozilla.Firefox
+winget install Mozilla.Thunderbird --version 102.15.0
+winget install Notepad++.Notepad++
+winget install ONLYOFFICE.DesktopEditors
+winget install Valve.Steam
+winget install Element.Element
+winget install Vup.Vup
+winget install Cloudflare.Warp
