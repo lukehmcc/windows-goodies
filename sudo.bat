@@ -18,3 +18,4 @@ winget install Cloudflare.Warp
 winget install Microsoft.VisualStudioCode
 winget install Readdle.Spark
 winget install Obsidian.Obsidian
+winget install ArduinoSA.IDE.stable
