@@ -15,3 +15,6 @@ winget install Valve.Steam
 winget install Element.Element
 winget install Vup.Vup
 winget install Cloudflare.Warp
+winget install Microsoft.VisualStudioCode
+winget install Spotify.Spotify
+winget install Readdle.Spark
