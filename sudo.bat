@@ -1,16 +1,16 @@
 @REM Install basic apps privledged
 
-winget install Git.Git
-winget install Mozilla.Firefox
-winget install Bitwarden.Bitwarden
-winget install Obsidian.Obsidian
-winget install Foundry376.Mailspring
-winget install acrosync.DuplicacyWeb
-winget install Notepad++.Notepad++
-winget install Valve.Steam
-winget install Vup.Vup
-winget install Cloudflare.Warp
-winget install Microsoft.VisualStudioCode
-winget install ArduinoSA.IDE.stable
-winget install cinnyapp.cinny-desktop
-winget install Google.AndroidStudio
+winget install -h Git.Git 
+winget install -h Mozilla.Firefox
+winget install -h Bitwarden.Bitwarden
+winget install -h Obsidian.Obsidian
+winget install -h Foundry376.Mailspring
+winget install -h acrosync.DuplicacyWeb
+winget install -h Notepad++.Notepad++
+winget install -h Valve.Steam
+winget install -h Vup.Vup
+winget install -h Cloudflare.Warp
+winget install -h Microsoft.VisualStudioCode
+winget install -h ArduinoSA.IDE.stable
+winget install -h cinnyapp.cinny-desktop
+winget install -h Google.AndroidStudio
