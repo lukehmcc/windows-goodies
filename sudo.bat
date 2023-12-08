@@ -14,3 +14,4 @@ winget install -h Microsoft.VisualStudioCode
 winget install -h ArduinoSA.IDE.stable
 winget install -h cinnyapp.cinny-desktop
 winget install -h Google.AndroidStudio
+winget install -h tailscale.tailscale
